@@ -1,0 +1,12 @@
+Sistema de Criação de conta e login pelo Prompt
+
+Criar uma variável que recebe o nome de usuário para cadastro
+Criar outra variável que recebe a senha para cadastro
+Criar outra variável que receberá o nome de usuário para login
+Criar outra variável que recebrá a senha para o login
+
+
+Se o nome de usuário e a senha de cadastro for a mesma que foi digitado no cadastro for a mesma logar
+
+Se o nome de usuário e a senha de cadastro não for a mesma que o que for digitado no login 
+Não logar
